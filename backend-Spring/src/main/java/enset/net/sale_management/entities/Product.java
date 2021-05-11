@@ -14,5 +14,5 @@ public class Product {
     private Long id ;
     private String name ;
     private Double price ;
-    private int barcode ;
+    private String barcode ;
 }
